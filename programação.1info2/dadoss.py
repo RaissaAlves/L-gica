@@ -27,3 +27,4 @@ else:
         print("jogador 2 venceu!!!")
     else:
         print("Empate!!!")
+        hsdhdjsdsjshxshsj
